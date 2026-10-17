@@ -1,4 +1,4 @@
-<img width="1200" height="610" alt="myne-field" src="https://github.com/user-attachments/assets/83811769-5e35-4556-8566-6c2a6d46428f" />
+<img width="800" height="407" alt="myne-field" src="https://github.com/user-attachments/assets/55551bd7-c46c-4d2b-afb6-cc01d1855d9b" />
 
 # Myne Bot
 
